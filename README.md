@@ -6,5 +6,6 @@ Our approach involves a well-structured pipeline utilizing seaborn and Matplotli
 Our goal is to develop a robust CVD risk prediction model using the random forest algorithm. Insights gained from data exploration and Scikit-learn's capabilities will enhance risk assessments, potentially aiding healthcare professionals in making informed decisions regarding patient care and disease prevention.
 
 
+![image](https://github.com/user-attachments/assets/8a44dc5b-0aeb-406c-b9a1-77a2ca4c242d)
 
 
